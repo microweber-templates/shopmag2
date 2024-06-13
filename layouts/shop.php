@@ -16,11 +16,14 @@ position: 4
 
 <div class="edit" rel="content" field="content">
     <module type="layouts" template="skin-16"/>
+
+</div>
+
+<div class="container">
+   <module type="shop" />
 </div>
 
 
-
-<module type="shop" />
 
 
 <div class="edit" rel="content" field="shop-after-content">
